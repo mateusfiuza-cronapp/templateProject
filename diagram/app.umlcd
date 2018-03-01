@@ -37,12 +37,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 81.2890625,
-        "y": 253.0234375
+        "x": 82.7265625,
+        "y": 252.203125
       },
       "size": {
-        "width": 153.421875,
-        "height": 108.69010543823242
+        "width": 150.546875,
+        "height": 107.86979293823242
       },
       "angle": 0,
       "isRest": true,
@@ -135,7 +135,7 @@
           "text": "id\nuser\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 58.390625,
+          "ref-x": 56.734375,
           "font-size": 11,
           "text": "java.lang.String\nUser\n"
         },
@@ -163,12 +163,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 68.84375,
+        "x": 70.0625,
         "y": 40
       },
       "size": {
-        "width": 178.3125,
-        "height": 163.0234375
+        "width": 175.875,
+        "height": 162.203125
       },
       "angle": 0,
       "isRest": true,
@@ -376,7 +376,7 @@
           "text": "email\nname\nid\nlogin\npicture\npassword\ntheme\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 83.28125,
+          "ref-x": 82.0625,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\n"
         },
@@ -445,12 +445,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 689.3828125,
-        "y": 258.4525146484375
+        "x": 465,
+        "y": 57
       },
       "size": {
-        "width": 257.234375,
-        "height": 130.33922576904297
+        "width": 253.671875,
+        "height": 129.51891326904297
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -588,7 +588,7 @@
           "text": "id\nname\nactive\nparentProductCategory\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 150.5625,
+          "ref-x": 148.21875,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\nProductCategory\n"
         },
@@ -616,12 +616,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2880.375,
-        "y": 242.1103973388672
+        "x": 1506,
+        "y": 453
       },
       "size": {
-        "width": 205.25,
-        "height": 163.0234375
+        "width": 201.8125,
+        "height": 162.203125
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -828,7 +828,7 @@
           "text": "id\nname\nphone\nemail\nactive\nsupplierType\npersonType\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 98.578125,
+          "ref-x": 96.359375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.Boolean\nSupplierType\njava.lang.String\n"
         },
@@ -853,12 +853,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1533.515625,
-        "y": 777.624267578125
+        "x": 1161,
+        "y": 263
       },
       "size": {
-        "width": 180.96875,
-        "height": 130.33922576904297
+        "width": 177.078125,
+        "height": 129.51891326904297
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -996,7 +996,7 @@
           "text": "id\nname\nactive\nproduct\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 74.296875,
+          "ref-x": 71.625,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\nProduct\n"
         },
@@ -1023,12 +1023,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1483.7109375,
-        "y": 974.3056030273438
+        "x": 1340,
+        "y": 37
       },
       "size": {
-        "width": 280.578125,
-        "height": 152.1103973388672
+        "width": 277.578125,
+        "height": 151.29007720947266
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -1217,7 +1217,7 @@
           "text": "id\nvalue\nactive\nproductCharacteristic\ndescription\nattachment\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 140.75,
+          "ref-x": 139.421875,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\nProductCharacteristic\njava.lang.String\nFile Upload (to Dropbox)\n"
         },
@@ -1286,12 +1286,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 986.1953125,
-        "y": 526.1892700195312
+        "x": 92,
+        "y": 471
       },
       "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
+        "width": 168.1875,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -1406,7 +1406,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
+          "ref-x": 62.734375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -1433,12 +1433,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1253.2109375,
-        "y": 766.7386474609375
+        "x": 427,
+        "y": 462
       },
       "size": {
-        "width": 203.578125,
-        "height": 152.1103973388672
+        "width": 201.03125,
+        "height": 151.29007720947266
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -1618,7 +1618,7 @@
           "text": "id\nstock\naddedDate\nitemStatus\nquantity\nproduct\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 90.03125,
+          "ref-x": 87.8125,
           "font-size": 11,
           "text": "java.lang.String\nStock\njava.sql.Timestamp\nItemStatus\njava.lang.Long\nProduct\n"
         },
@@ -1679,150 +1679,6 @@
     },
     {
       "type": "uml.Class",
-      "name": "Currency",
-      "attributes": [
-        "id:java.lang.String",
-        "name:java.lang.String",
-        "active:java.lang.Boolean"
-      ],
-      "methods": [],
-      "position": {
-        "x": 1011.1953125,
-        "y": 263.8750915527344
-      },
-      "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
-      },
-      "angle": 0,
-      "multitenantContextJsonIgnore": "false",
-      "multitenantContextIgnoreEntities": "",
-      "role": "Auto",
-      "queries": [],
-      "tableName": null,
-      "tableScheme": null,
-      "isRest": "true",
-      "multitenantContext": "",
-      "restSecurity": null,
-      "restPath": "",
-      "id": "e1b434dc-c687-4a9e-83dc-f4297645029a",
-      "fields": [
-        {
-          "name": "id",
-          "type": "java.lang.String",
-          "dbName": "id",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "UUID.randomUUID().toString().toUpperCase()",
-          "label": "Id",
-          "mask": "",
-          "isPrimaryKey": true,
-          "isUniqueKey": false,
-          "isNullable": false,
-          "pkType": "UUID",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        },
-        {
-          "name": "name",
-          "type": "java.lang.String",
-          "dbName": "name",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "",
-          "label": "Name",
-          "mask": "",
-          "isPrimaryKey": false,
-          "isUniqueKey": true,
-          "isNullable": false,
-          "pkType": "",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        },
-        {
-          "name": "active",
-          "type": "java.lang.Boolean",
-          "dbName": "active",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "true",
-          "label": "Active",
-          "mask": "",
-          "isPrimaryKey": false,
-          "isUniqueKey": false,
-          "isNullable": false,
-          "pkType": "",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        }
-      ],
-      "runtimeClass": "cronos.widgets.joint.uml.Class",
-      "z": 24,
-      "attrs": {
-        "rect": {
-          "stroke": "yellow",
-          "stroke-width": 2
-        },
-        ".uml-class-name-rect": {
-          "height": 50,
-          "transform": "translate(0,0)"
-        },
-        ".uml-class-attrs-rect": {
-          "height": 90,
-          "transform": "translate(0,50)"
-        },
-        ".uml-class-methods-rect": {
-          "height": 30,
-          "transform": "translate(0,140)"
-        },
-        ".uml-class-name-text": {
-          "fill": "#000",
-          "font-size": 12,
-          "text": "Currency",
-          "font-weight": "bold"
-        },
-        ".uml-class-attrs-text": {
-          "font-size": 11,
-          "text": "id\nname\nactive\n"
-        },
-        ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
-          "font-size": 11,
-          "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
-        },
-        ".uml-class-methods-text": {
-          "fill": "#0066FF",
-          "font-size": 11,
-          "text": ""
-        },
-        ".": {
-          "display": "normal"
-        }
-      }
-    },
-    {
-      "type": "uml.Class",
       "name": "ProductStatus",
       "attributes": [
         "id:java.lang.String",
@@ -1831,12 +1687,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1282.1953125,
-        "y": 263.8750915527344
+        "x": 793,
+        "y": 60
       },
       "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
+        "width": 168.1875,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -1951,7 +1807,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
+          "ref-x": 62.734375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -2027,12 +1883,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1801.3984375,
-        "y": 520.7666625976562
+        "x": 1151,
+        "y": 1124
       },
       "size": {
-        "width": 215.203125,
-        "height": 130.33922576904297
+        "width": 212.546875,
+        "height": 129.51891326904297
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -2162,7 +2018,7 @@
           "text": "id\ndateAdded\nbudgetStatus\nclient\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 101.65625,
+          "ref-x": 99.328125,
           "font-size": 11,
           "text": "java.lang.String\njava.sql.Timestamp\nBudgetStatus\nClient\n"
         },
@@ -2186,12 +2042,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1253.1953125,
-        "y": 526.1892700195312
+        "x": 286,
+        "y": 245
       },
       "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
+        "width": 168.1875,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -2306,7 +2162,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
+          "ref-x": 62.734375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -2376,16 +2232,17 @@
         "image:Image Upload (to Dropbox)",
         "attachment:File Upload (to Dropbox)",
         "order:java.lang.String",
-        "purchaseOrderStatus:PurchaseOrderStatus"
+        "purchaseOrderStatus:PurchaseOrderStatus",
+        "supplier:Supplier"
       ],
       "methods": [],
       "position": {
-        "x": 335.9765625,
-        "y": 209.4940185546875
+        "x": 1974,
+        "y": 780
       },
       "size": {
-        "width": 294.046875,
-        "height": 173.9493637084961
+        "width": 291.90625,
+        "height": 185.487060546875
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -2579,6 +2436,25 @@
           "isEncryption": false,
           "referencedColumnName": "",
           "isSearchable": false
+        },
+        {
+          "name": "supplier",
+          "type": "Supplier",
+          "dbName": "fk_supplier",
+          "label": "",
+          "mask": "",
+          "isPrimaryKey": false,
+          "isUniqueKey": false,
+          "isNullable": true,
+          "multitenantContext": "",
+          "pkType": "",
+          "isIgnore": false,
+          "isTransien": false,
+          "isInsertable": true,
+          "isUpdatable": true,
+          "isEncryption": false,
+          "referencedColumnName": "",
+          "isSearchable": false
         }
       ],
       "runtimeClass": "cronos.widgets.joint.uml.Class",
@@ -2593,12 +2469,12 @@
           "transform": "translate(0,0)"
         },
         ".uml-class-attrs-rect": {
-          "height": 190,
+          "height": 210,
           "transform": "translate(0,50)"
         },
         ".uml-class-methods-rect": {
           "height": 30,
-          "transform": "translate(0,240)"
+          "transform": "translate(0,260)"
         },
         ".uml-class-name-text": {
           "fill": "#000",
@@ -2608,12 +2484,12 @@
         },
         ".uml-class-attrs-text": {
           "font-size": 11,
-          "text": "id\nfiscalDocument\naddedDate\nstatus\nimage\nattachment\norder\npurchaseOrderStatus\n"
+          "text": "id\nfiscalDocument\naddedDate\nstatus\nimage\nattachment\norder\npurchaseOrderStatus\nsupplier\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 141.375,
+          "ref-x": 140.1875,
           "font-size": 11,
-          "text": "java.lang.String\njava.lang.String\njava.sql.Timestamp\njava.lang.Integer\nImage Upload (to Dropbox)\nFile Upload (to Dropbox)\njava.lang.String\nPurchaseOrderStatus\n"
+          "text": "java.lang.String\njava.lang.String\njava.sql.Timestamp\njava.lang.Integer\nImage Upload (to Dropbox)\nFile Upload (to Dropbox)\njava.lang.String\nPurchaseOrderStatus\nSupplier\n"
         },
         ".uml-class-methods-text": {
           "fill": "#0066FF",
@@ -2639,12 +2515,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1793.5,
-        "y": 968.8490600585938
+        "x": 366,
+        "y": 693
       },
       "size": {
-        "width": 259,
-        "height": 163.0234375
+        "width": 255.5625,
+        "height": 162.203125
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -2851,7 +2727,7 @@
           "text": "id\nmovementType\nquantity\nstockItem\nstockMovementType\naddedDate\nnote\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 137.078125,
+          "ref-x": 134.859375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.Character\njava.lang.Integer\nStockItem\nStockMovementType\njava.sql.Timestamp\njava.lang.String\n"
         },
@@ -2920,12 +2796,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2349.1953125,
-        "y": 783.046875
+        "x": 76,
+        "y": 695
       },
       "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
+        "width": 170.453125,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -3040,7 +2916,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
+          "ref-x": 65,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -3109,12 +2985,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1819.578125,
-        "y": 263.8750915527344
+        "x": 1456,
+        "y": 1129
       },
       "size": {
-        "width": 172.84375,
-        "height": 119.49402618408203
+        "width": 169.296875,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -3229,7 +3105,7 @@
           "text": "id\nname\nstatus\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 66.171875,
+          "ref-x": 63.84375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -3298,12 +3174,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 395.8125,
-        "y": 40
+        "x": 2398,
+        "y": 823
       },
       "size": {
-        "width": 174.375,
-        "height": 119.49402618408203
+        "width": 174.703125,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -3418,7 +3294,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 67.703125,
+          "ref-x": 69.25,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -3487,12 +3363,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1553.1953125,
-        "y": 263.8750915527344
+        "x": 1052,
+        "y": 59
       },
       "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
+        "width": 168.1875,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -3607,7 +3483,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
+          "ref-x": 62.734375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -3634,12 +3510,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2037,
-        "y": 514
+        "x": 787,
+        "y": 894
       },
       "size": {
-        "width": 226.34375,
-        "height": 152.1103973388672
+        "width": 224.34375,
+        "height": 151.29007720947266
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -3815,7 +3691,7 @@
           "text": "id\norder\naddedDate\nfiscalDocument\norderStatus\nclient\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 112.796875,
+          "ref-x": 111.125,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.sql.Timestamp\njava.lang.String\nOrderStatus\nClient\n"
         },
@@ -3842,12 +3718,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1320,
-        "y": 297
+        "x": 1017,
+        "y": 1439
       },
       "size": {
-        "width": 213.78125,
-        "height": 152.1103973388672
+        "width": 211.34375,
+        "height": 151.29007720947266
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -4031,7 +3907,7 @@
           "text": "id\nfantasyName\ncnpj\nfoundationDade\nstateRegistration\nclient\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 118.75,
+          "ref-x": 117.53125,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.String\njava.util.Date\njava.lang.String\nClient\n"
         },
@@ -4058,12 +3934,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1531.390625,
-        "y": 40
+        "x": 683,
+        "y": 1431
       },
       "size": {
-        "width": 207.21875,
-        "height": 152.1103973388672
+        "width": 204.34375,
+        "height": 151.29007720947266
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -4243,7 +4119,7 @@
           "text": "id\ndateOfBirth\ngenre\nrg\ncpf\nclient\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 91.84375,
+          "ref-x": 89.625,
           "font-size": 11,
           "text": "java.lang.String\njava.util.Date\njava.lang.Character\njava.lang.Integer\njava.lang.String\nClient\n"
         },
@@ -4266,18 +4142,17 @@
         "number:java.lang.String",
         "neighborhood:java.lang.String",
         "complement:java.lang.String",
-        "addressType:AddressType",
         "client:Client",
         "postalCode:java.lang.String"
       ],
       "methods": [],
       "position": {
-        "x": 2243,
-        "y": 514
+        "x": 463,
+        "y": 1153
       },
       "size": {
-        "width": 198.515625,
-        "height": 173.9493637084961
+        "width": 199,
+        "height": 163.625
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -4408,29 +4283,6 @@
           "isSearchable": false
         },
         {
-          "name": "addressType",
-          "type": "AddressType",
-          "dbName": "fk_addressType",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "",
-          "label": "",
-          "mask": "",
-          "isPrimaryKey": false,
-          "isUniqueKey": false,
-          "isNullable": true,
-          "pkType": "",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        },
-        {
           "name": "client",
           "type": "Client",
           "dbName": "fk_client",
@@ -4489,12 +4341,12 @@
           "transform": "translate(0,0)"
         },
         ".uml-class-attrs-rect": {
-          "height": 190,
+          "height": 170,
           "transform": "translate(0,50)"
         },
         ".uml-class-methods-rect": {
           "height": 30,
-          "transform": "translate(0,240)"
+          "transform": "translate(0,220)"
         },
         ".uml-class-name-text": {
           "fill": "#000",
@@ -4504,206 +4356,17 @@
         },
         ".uml-class-attrs-text": {
           "font-size": 11,
-          "text": "id\naddress\nnumber\nneighborhood\ncomplement\naddressType\nclient\npostalCode\n"
+          "text": "id\naddress\nnumber\nneighborhood\ncomplement\nclient\npostalCode\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 103.484375,
+          "ref-x": 103.734375,
           "font-size": 11,
-          "text": "java.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\nAddressType\nClient\njava.lang.String\n"
+          "text": "java.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\nClient\njava.lang.String\n"
         },
         ".uml-class-methods-text": {
           "fill": "#0066FF",
           "font-size": 11,
           "text": ""
-        },
-        ".": {
-          "display": "normal"
-        }
-      }
-    },
-    {
-      "type": "uml.Class",
-      "name": "AddressType",
-      "attributes": [
-        "id:java.lang.String",
-        "name:java.lang.String",
-        "active:java.lang.Boolean"
-      ],
-      "methods": [],
-      "position": {
-        "x": 2358.1953125,
-        "y": 263.8750915527344
-      },
-      "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
-      },
-      "angle": 0,
-      "multitenantContextJsonIgnore": "false",
-      "multitenantContextIgnoreEntities": "",
-      "role": "Auto",
-      "queries": [],
-      "tableName": null,
-      "tableScheme": null,
-      "isRest": "true",
-      "multitenantContext": "",
-      "restSecurity": null,
-      "restPath": "",
-      "id": "28e8c357-7766-46fd-aa88-3ee9424aa043",
-      "fields": [
-        {
-          "name": "id",
-          "type": "java.lang.String",
-          "dbName": "id",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "UUID.randomUUID().toString().toUpperCase()",
-          "label": "Id",
-          "mask": "",
-          "isPrimaryKey": true,
-          "isUniqueKey": false,
-          "isNullable": false,
-          "pkType": "UUID",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        },
-        {
-          "name": "name",
-          "type": "java.lang.String",
-          "dbName": "name",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "",
-          "label": "Name",
-          "mask": "",
-          "isPrimaryKey": false,
-          "isUniqueKey": false,
-          "isNullable": true,
-          "pkType": "",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        },
-        {
-          "name": "active",
-          "type": "java.lang.Boolean",
-          "dbName": "active",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "",
-          "label": "Active",
-          "mask": "",
-          "isPrimaryKey": false,
-          "isUniqueKey": false,
-          "isNullable": true,
-          "pkType": "",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        }
-      ],
-      "runtimeClass": "cronos.widgets.joint.uml.Class",
-      "z": 69,
-      "attrs": {
-        "rect": {
-          "stroke": "yellow",
-          "stroke-width": 2
-        },
-        ".uml-class-name-rect": {
-          "height": 50,
-          "transform": "translate(0,0)"
-        },
-        ".uml-class-attrs-rect": {
-          "height": 90,
-          "transform": "translate(0,50)"
-        },
-        ".uml-class-methods-rect": {
-          "height": 30,
-          "transform": "translate(0,140)"
-        },
-        ".uml-class-name-text": {
-          "fill": "#000",
-          "font-size": 12,
-          "text": "AddressType",
-          "font-weight": "bold"
-        },
-        ".uml-class-attrs-text": {
-          "font-size": 11,
-          "text": "id\nname\nactive\n"
-        },
-        ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
-          "font-size": 11,
-          "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
-        },
-        ".uml-class-methods-text": {
-          "fill": "#0066FF",
-          "font-size": 11,
-          "text": ""
-        },
-        ".": {
-          "display": "normal"
-        }
-      }
-    },
-    {
-      "type": "uml.Composition",
-      "relationFields": [
-        "addressType:target"
-      ],
-      "name": null,
-      "id": "0c57cb5d-e01a-42ea-85b8-ca34619e2816",
-      "runtimeClass": "cronos.widgets.joint.arrow.OneToMany",
-      "target": {
-        "id": "ab8386db-127b-42ce-93c6-cbafd0085c31"
-      },
-      "source": {
-        "id": "28e8c357-7766-46fd-aa88-3ee9424aa043"
-      },
-      "labels": [
-        {
-          "position": 0.9,
-          "attrs": {
-            "rect": {
-              "fill": "transparent"
-            },
-            "text": {
-              "text": "*",
-              "font-family": "Arial",
-              "font-size": "12px",
-              "fill": "#cecece"
-            }
-          }
-        }
-      ],
-      "z": 70,
-      "attrs": {
-        ".marker-target": {
-          "d": "",
-          "fill": ""
-        },
-        ".marker-source": {
-          "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
-          "fill": "#cecece"
         },
         ".": {
           "display": "normal"
@@ -4720,12 +4383,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2628.1953125,
-        "y": 263.8750915527344
+        "x": 447,
+        "y": 932
       },
       "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
+        "width": 168.1875,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -4840,7 +4503,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
+          "ref-x": 62.734375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -4915,19 +4578,18 @@
         "supplier:Supplier",
         "productStatus:ProductStatus",
         "price:java.lang.Double",
-        "currency:Currency",
         "costPrice:java.lang.Double",
         "ControlInventory:java.lang.Boolean",
         "brand:Brand"
       ],
       "methods": [],
       "position": {
-        "x": 1487.5859375,
-        "y": 455.13385009765625
+        "x": 787,
+        "y": 329
       },
       "size": {
-        "width": 270.828125,
-        "height": 261.60484313964844
+        "width": 273.8125,
+        "height": 247.81288146972656
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -5219,29 +4881,6 @@
           "isSearchable": false
         },
         {
-          "name": "currency",
-          "type": "Currency",
-          "dbName": "fk_currency",
-          "dbLength": "",
-          "dbPrecision": "",
-          "dbScale": "",
-          "dbDefaultValue": "",
-          "label": "",
-          "mask": "",
-          "isPrimaryKey": false,
-          "isUniqueKey": false,
-          "isNullable": true,
-          "pkType": "",
-          "multitenantContext": "",
-          "jsonIgnore": false,
-          "isTransient": false,
-          "isInsertable": true,
-          "isUpdatable": true,
-          "isEncryption": false,
-          "referencedColumnName": "",
-          "isSearchable": false
-        },
-        {
           "name": "costPrice",
           "type": "java.lang.Double",
           "dbName": "costPrice",
@@ -5324,12 +4963,12 @@
           "transform": "translate(0,0)"
         },
         ".uml-class-attrs-rect": {
-          "height": 350,
+          "height": 330,
           "transform": "translate(0,50)"
         },
         ".uml-class-methods-rect": {
           "height": 30,
-          "transform": "translate(0,400)"
+          "transform": "translate(0,380)"
         },
         ".uml-class-name-text": {
           "fill": "#000",
@@ -5339,12 +4978,12 @@
         },
         ".uml-class-attrs-text": {
           "font-size": 11,
-          "text": "id\nname\nactive\nproductCategory\ndescription\nimage\nattachment\nbarcode\ncreationDate\nsupplier\nproductStatus\nprice\ncurrency\ncostPrice\nControlInventory\nbrand\n"
+          "text": "id\nname\nactive\nproductCategory\ndescription\nimage\nattachment\nbarcode\ncreationDate\nsupplier\nproductStatus\nprice\ncostPrice\nControlInventory\nbrand\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 118.15625,
+          "ref-x": 119.8125,
           "font-size": 11,
-          "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\nProductCategory\njava.lang.String\nImage Upload (to Dropbox)\nFile Upload (to Dropbox)\njava.lang.String\njava.sql.Timestamp\nSupplier\nProductStatus\njava.lang.Double\nCurrency\njava.lang.Double\njava.lang.Boolean\nBrand\n"
+          "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\nProductCategory\njava.lang.String\nImage Upload (to Dropbox)\nFile Upload (to Dropbox)\njava.lang.String\njava.sql.Timestamp\nSupplier\nProductStatus\njava.lang.Double\njava.lang.Double\njava.lang.Boolean\nBrand\n"
         },
         ".uml-class-methods-text": {
           "fill": "#0066FF",
@@ -5387,51 +5026,6 @@
         }
       ],
       "z": 57,
-      "attrs": {
-        ".marker-target": {
-          "d": "",
-          "fill": ""
-        },
-        ".marker-source": {
-          "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
-          "fill": "#cecece"
-        },
-        ".": {
-          "display": "normal"
-        }
-      }
-    },
-    {
-      "type": "uml.Composition",
-      "relationFields": [
-        "currency:target"
-      ],
-      "name": null,
-      "id": "261c74aa-b447-4574-b641-a616dcd44b02",
-      "runtimeClass": "cronos.widgets.joint.arrow.OneToMany",
-      "target": {
-        "id": "07da68af-714e-448c-9a32-98dfe8174233"
-      },
-      "source": {
-        "id": "e1b434dc-c687-4a9e-83dc-f4297645029a"
-      },
-      "labels": [
-        {
-          "position": 0.9,
-          "attrs": {
-            "rect": {
-              "fill": "transparent"
-            },
-            "text": {
-              "text": "*",
-              "font-family": "Arial",
-              "font-size": "12px",
-              "fill": "#cecece"
-            }
-          }
-        }
-      ],
-      "z": 29,
       "attrs": {
         ".marker-target": {
           "d": "",
@@ -5636,12 +5230,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 1817.1953125,
-        "y": 56.30818557739258
+        "x": 1912,
+        "y": 235
       },
       "size": {
-        "width": 171.609375,
-        "height": 119.49402618408203
+        "width": 168.1875,
+        "height": 118.67371368408203
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -5756,7 +5350,7 @@
           "text": "id\nname\nactive\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 64.9375,
+          "ref-x": 62.734375,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.Boolean\n"
         },
@@ -5826,12 +5420,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2072.9765625,
-        "y": 50.88558578491211
+        "x": 2181,
+        "y": 601
       },
       "size": {
-        "width": 196.046875,
-        "height": 130.33922576904297
+        "width": 193.609375,
+        "height": 129.51891326904297
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -5965,7 +5559,7 @@
           "text": "id\ncnpj\nfantasyName\nsupplier\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 101.015625,
+          "ref-x": 99.796875,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.String\nSupplier\n"
         },
@@ -5991,12 +5585,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2888.3125,
-        "y": 45.4482421875
+        "x": 1511,
+        "y": 251
       },
       "size": {
-        "width": 189.375,
-        "height": 141.2139129638672
+        "width": 188.375,
+        "height": 140.3936004638672
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -6157,7 +5751,7 @@
           "text": "id\nname\nrg\ncpf\nsupplier\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 94.34375,
+          "ref-x": 94.5625,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\nSupplier\n"
         },
@@ -6247,6 +5841,18 @@
         }
       ],
       "z": 80,
+      "previous_source": {
+        "id": "9610a7f9-4936-4454-a80c-5831a722bf5a"
+      },
+      "previous_target": {
+        "id": "43381ce8-ce3c-46e0-91c9-91f618079029"
+      },
+      "vertices": [
+        {
+          "x": 2110,
+          "y": 684
+        }
+      ],
       "attrs": {
         ".marker-target": {
           "d": "",
@@ -6258,6 +5864,10 @@
         },
         ".": {
           "display": "normal"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
         }
       }
     },
@@ -6275,12 +5885,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2889.5546875,
-        "y": 504.4245300292969
+        "x": 2160,
+        "y": 357
       },
       "size": {
-        "width": 186.890625,
-        "height": 163.02345275878906
+        "width": 183.453125,
+        "height": 162.20314025878906
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -6483,7 +6093,7 @@
           "text": "id\naddress\ncity\npostalCode\ncountry\nstate\nsupplier\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 91.859375,
+          "ref-x": 89.640625,
           "font-size": 11,
           "text": "java.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\njava.lang.String\nSupplier\n"
         },
@@ -6528,6 +6138,18 @@
         }
       ],
       "z": 82,
+      "previous_source": {
+        "id": "43381ce8-ce3c-46e0-91c9-91f618079029"
+      },
+      "previous_target": {
+        "id": "dc3e13f1-5649-4a7f-b000-d5d56c5e1088"
+      },
+      "vertices": [
+        {
+          "x": 1974,
+          "y": 553
+        }
+      ],
       "attrs": {
         ".marker-target": {
           "d": "",
@@ -6539,6 +6161,10 @@
         },
         ".": {
           "display": "normal"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
         }
       }
     },
@@ -6556,12 +6182,12 @@
       ],
       "methods": [],
       "position": {
-        "x": 2057,
-        "y": 242
+        "x": 826,
+        "y": 1113
       },
       "size": {
-        "width": 205.40625,
-        "height": 163.0234375
+        "width": 202.53125,
+        "height": 162.203125
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -6768,7 +6394,7 @@
           "text": "id\naddedDate\nclientType\nactive\nname\nemail\nphone\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 90.03125,
+          "ref-x": 87.8125,
           "font-size": 11,
           "text": "java.lang.String\njava.sql.Timestamp\njava.lang.Character\njava.lang.Boolean\njava.lang.String\njava.lang.String\njava.lang.String\n"
         },
@@ -6813,6 +6439,13 @@
         }
       ],
       "z": 67,
+      "previous_source": {
+        "id": "56516354-0eb3-42fa-87a3-1df185dd307b"
+      },
+      "previous_target": {
+        "id": "143aa5c8-d789-4c13-80e8-88b99a1fd42f"
+      },
+      "vertices": [],
       "attrs": {
         ".marker-target": {
           "d": "",
@@ -6824,6 +6457,10 @@
         },
         ".": {
           "display": "normal"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
         }
       }
     },
@@ -6986,12 +6623,12 @@
         "+ list(): List<OrderProduct>"
       ],
       "position": {
-        "x": 2074.203125,
-        "y": 776.460205078125
+        "x": 806,
+        "y": 657
       },
       "size": {
-        "width": 183.59375,
-        "height": 132.66735076904297
+        "width": 183.921875,
+        "height": 130.51891326904297
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
@@ -7106,7 +6743,7 @@
           "text": "id\norder\nproduct\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 88.5625,
+          "ref-x": 90.109375,
           "font-size": 11,
           "text": "java.lang.String\nOrder\nProduct\n"
         },
@@ -7151,6 +6788,12 @@
         }
       ],
       "z": 85,
+      "previous_source": {
+        "id": "e925416d-5ac4-4ac7-aa7c-23521eb7a21c"
+      },
+      "previous_target": {
+        "id": "b4a0922d-a587-41f4-9270-da3209aed79f"
+      },
       "attrs": {
         ".marker-target": {
           "d": "",
@@ -7162,6 +6805,10 @@
         },
         ".": {
           "display": "normal"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
         }
       }
     },
@@ -7286,6 +6933,13 @@
         }
       ],
       "z": 88,
+      "previous_source": {
+        "id": "143aa5c8-d789-4c13-80e8-88b99a1fd42f"
+      },
+      "previous_target": {
+        "id": "72177084-32c6-48d5-8cd4-ee8b05f32287"
+      },
+      "vertices": [],
       "attrs": {
         ".marker-target": {
           "d": "",
@@ -7297,6 +6951,10 @@
         },
         ".": {
           "display": "normal"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
         }
       }
     },
@@ -7306,32 +6964,23 @@
       "attributes": [
         "id:java.lang.String",
         "budget:Budget",
-        "product:Product"
+        "product:Product",
+        "price:java.lang.Double"
       ],
-      "methods": [
-        "+ list(): List<BudgetProduct>"
-      ],
+      "methods": [],
       "position": {
-        "x": 1800.8359375,
-        "y": 776.460205078125
+        "x": 1166,
+        "y": 788
       },
       "size": {
-        "width": 190.328125,
-        "height": 132.66735076904297
+        "width": 174.734375,
+        "height": 130.94078826904297
       },
       "angle": 0,
       "multitenantContextJsonIgnore": "false",
       "multitenantContextIgnoreEntities": "",
       "role": "AssociationClass",
-      "queries": [
-        {
-          "isRest": "true",
-          "name": "list",
-          "query": "select bp from $entity bp",
-          "void": false,
-          "type": "select"
-        }
-      ],
+      "queries": [],
       "tableName": null,
       "tableScheme": null,
       "isRest": "true",
@@ -7344,15 +6993,19 @@
           "name": "id",
           "type": "java.lang.String",
           "dbName": "id",
+          "dbLength": "",
+          "dbPrecision": "",
+          "dbScale": "",
+          "dbDefaultValue": "UUID.randomUUID().toString().toUpperCase()",
           "label": "",
           "mask": "",
           "isPrimaryKey": true,
           "isUniqueKey": false,
           "isNullable": false,
-          "multitenantContext": "",
           "pkType": "UUID",
-          "isIgnore": false,
-          "isTransien": false,
+          "multitenantContext": "",
+          "jsonIgnore": false,
+          "isTransient": false,
           "isInsertable": true,
           "isUpdatable": true,
           "isEncryption": false,
@@ -7363,15 +7016,19 @@
           "name": "budget",
           "type": "Budget",
           "dbName": "fk_budget",
+          "dbLength": "",
+          "dbPrecision": "",
+          "dbScale": "",
+          "dbDefaultValue": "",
           "label": "",
           "mask": "",
           "isPrimaryKey": false,
           "isUniqueKey": false,
           "isNullable": true,
-          "multitenantContext": "",
           "pkType": "",
-          "isIgnore": false,
-          "isTransien": false,
+          "multitenantContext": "",
+          "jsonIgnore": false,
+          "isTransient": false,
           "isInsertable": true,
           "isUpdatable": true,
           "isEncryption": false,
@@ -7382,15 +7039,42 @@
           "name": "product",
           "type": "Product",
           "dbName": "fk_product",
+          "dbLength": "",
+          "dbPrecision": "",
+          "dbScale": "",
+          "dbDefaultValue": "",
           "label": "",
           "mask": "",
           "isPrimaryKey": false,
           "isUniqueKey": false,
           "isNullable": true,
-          "multitenantContext": "",
           "pkType": "",
-          "isIgnore": false,
-          "isTransien": false,
+          "multitenantContext": "",
+          "jsonIgnore": false,
+          "isTransient": false,
+          "isInsertable": true,
+          "isUpdatable": true,
+          "isEncryption": false,
+          "referencedColumnName": "",
+          "isSearchable": false
+        },
+        {
+          "name": "price",
+          "type": "java.lang.Double",
+          "dbName": "price",
+          "dbLength": "",
+          "dbPrecision": "",
+          "dbScale": "",
+          "dbDefaultValue": "",
+          "label": "Price",
+          "mask": "",
+          "isPrimaryKey": false,
+          "isUniqueKey": false,
+          "isNullable": false,
+          "pkType": "",
+          "multitenantContext": "",
+          "jsonIgnore": false,
+          "isTransient": false,
           "isInsertable": true,
           "isUpdatable": true,
           "isEncryption": false,
@@ -7412,13 +7096,13 @@
         },
         ".uml-class-attrs-rect": {
           "fill": "#fffec0",
-          "height": 90,
+          "height": 110,
           "transform": "translate(0,50)"
         },
         ".uml-class-methods-rect": {
           "fill": "#fffec0",
-          "height": 50,
-          "transform": "translate(0,140)"
+          "height": 30,
+          "transform": "translate(0,160)"
         },
         ".uml-class-name-text": {
           "fill": "#000",
@@ -7429,17 +7113,17 @@
         ".uml-class-attrs-text": {
           "fill": "#000",
           "font-size": 11,
-          "text": "id\nbudget\nproduct\n"
+          "text": "id\nbudget\nproduct\nprice\n"
         },
         ".uml-class-attrs-value": {
-          "ref-x": 95.296875,
+          "ref-x": 73.34375,
           "font-size": 11,
-          "text": "java.lang.String\nBudget\nProduct\n"
+          "text": "java.lang.String\nBudget\nProduct\njava.lang.Double\n"
         },
         ".uml-class-methods-text": {
           "fill": "#0066FF",
           "font-size": 11,
-          "text": "+ list(): List<BudgetProduct>"
+          "text": ""
         },
         ".": {
           "display": "normal"
@@ -7477,6 +7161,12 @@
         }
       ],
       "z": 90,
+      "previous_source": {
+        "id": "72177084-32c6-48d5-8cd4-ee8b05f32287"
+      },
+      "previous_target": {
+        "id": "9abd286c-71ee-4c68-8cce-a9d7f387d144"
+      },
       "attrs": {
         ".marker-target": {
           "d": "",
@@ -7488,6 +7178,10 @@
         },
         ".": {
           "display": "normal"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
         }
       }
     },
@@ -7535,6 +7229,307 @@
           "display": "normal"
         }
       }
+    },
+    {
+      "type": "uml.Class",
+      "name": "ProductPurchaseOrder",
+      "attributes": [
+        "id:java.lang.String",
+        "product:Product",
+        "purchaseOrder:PurchaseOrder"
+      ],
+      "methods": [
+        "+ list(): List<ProductPurchaseOrder>"
+      ],
+      "position": {
+        "x": 1527,
+        "y": 824
+      },
+      "size": {
+        "width": 231.390625,
+        "height": 130.51891326904297
+      },
+      "angle": 0,
+      "multitenantContextJsonIgnore": "false",
+      "multitenantContextIgnoreEntities": "",
+      "role": "AssociationClass",
+      "queries": [
+        {
+          "isRest": "true",
+          "name": "list",
+          "query": "select pp from $entity pp",
+          "void": false,
+          "type": "select"
+        }
+      ],
+      "tableName": null,
+      "tableScheme": null,
+      "isRest": "true",
+      "multitenantContext": "",
+      "restSecurity": null,
+      "restPath": "",
+      "id": "adc3d11b-3be2-4530-a93a-90e91ceb1a09",
+      "fields": [
+        {
+          "name": "id",
+          "type": "java.lang.String",
+          "dbName": "id",
+          "label": "",
+          "mask": "",
+          "isPrimaryKey": true,
+          "isUniqueKey": false,
+          "isNullable": false,
+          "multitenantContext": "",
+          "pkType": "UUID",
+          "isIgnore": false,
+          "isTransien": false,
+          "isInsertable": true,
+          "isUpdatable": true,
+          "isEncryption": false,
+          "referencedColumnName": "",
+          "isSearchable": false
+        },
+        {
+          "name": "product",
+          "type": "Product",
+          "dbName": "fk_product",
+          "label": "",
+          "mask": "",
+          "isPrimaryKey": false,
+          "isUniqueKey": false,
+          "isNullable": true,
+          "multitenantContext": "",
+          "pkType": "",
+          "isIgnore": false,
+          "isTransien": false,
+          "isInsertable": true,
+          "isUpdatable": true,
+          "isEncryption": false,
+          "referencedColumnName": "",
+          "isSearchable": false
+        },
+        {
+          "name": "purchaseOrder",
+          "type": "PurchaseOrder",
+          "dbName": "fk_purchaseOrder",
+          "label": "",
+          "mask": "",
+          "isPrimaryKey": false,
+          "isUniqueKey": false,
+          "isNullable": true,
+          "multitenantContext": "",
+          "pkType": "",
+          "isIgnore": false,
+          "isTransien": false,
+          "isInsertable": true,
+          "isUpdatable": true,
+          "isEncryption": false,
+          "referencedColumnName": "",
+          "isSearchable": false
+        }
+      ],
+      "runtimeClass": "cronos.widgets.joint.uml.Class",
+      "z": 92,
+      "attrs": {
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
+        },
+        ".uml-class-name-rect": {
+          "fill": "#fffec0",
+          "height": 50,
+          "transform": "translate(0,0)"
+        },
+        ".uml-class-attrs-rect": {
+          "fill": "#fffec0",
+          "height": 90,
+          "transform": "translate(0,50)"
+        },
+        ".uml-class-methods-rect": {
+          "fill": "#fffec0",
+          "height": 50,
+          "transform": "translate(0,140)"
+        },
+        ".uml-class-name-text": {
+          "fill": "#000",
+          "font-size": 12,
+          "text": "ProductPurchaseOrder",
+          "font-weight": "bold"
+        },
+        ".uml-class-attrs-text": {
+          "fill": "#000",
+          "font-size": 11,
+          "text": "id\nproduct\npurchaseOrder\n"
+        },
+        ".uml-class-attrs-value": {
+          "ref-x": 134.6875,
+          "font-size": 11,
+          "text": "java.lang.String\nProduct\nPurchaseOrder\n"
+        },
+        ".uml-class-methods-text": {
+          "fill": "#0066FF",
+          "font-size": 11,
+          "text": "+ list(): List<ProductPurchaseOrder>"
+        }
+      }
+    },
+    {
+      "type": "uml.Composition",
+      "relationFields": [
+        "product:target"
+      ],
+      "name": null,
+      "id": "bf9396b7-d2e8-4e4e-9bed-9c9362851e70",
+      "runtimeClass": "cronos.widgets.joint.arrow.OneToMany",
+      "target": {
+        "id": "adc3d11b-3be2-4530-a93a-90e91ceb1a09"
+      },
+      "source": {
+        "id": "07da68af-714e-448c-9a32-98dfe8174233"
+      },
+      "labels": [
+        {
+          "position": 0.9,
+          "attrs": {
+            "rect": {
+              "fill": "transparent"
+            },
+            "text": {
+              "text": "*",
+              "font-family": "Arial",
+              "font-size": "12px",
+              "fill": "#cecece"
+            }
+          }
+        }
+      ],
+      "z": 93,
+      "previous_source": {
+        "id": "07da68af-714e-448c-9a32-98dfe8174233"
+      },
+      "previous_target": {
+        "id": "adc3d11b-3be2-4530-a93a-90e91ceb1a09"
+      },
+      "vertices": [
+        {
+          "x": 1357,
+          "y": 636
+        }
+      ],
+      "attrs": {
+        ".marker-target": {
+          "d": "",
+          "fill": ""
+        },
+        ".marker-source": {
+          "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
+          "fill": "#cecece"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
+        }
+      }
+    },
+    {
+      "type": "uml.Composition",
+      "relationFields": [
+        "purchaseOrder:target"
+      ],
+      "name": null,
+      "id": "297a2ccd-73ad-43a8-b27e-7a4babe60de4",
+      "runtimeClass": "cronos.widgets.joint.arrow.OneToMany",
+      "target": {
+        "id": "adc3d11b-3be2-4530-a93a-90e91ceb1a09"
+      },
+      "source": {
+        "id": "1a4bc72e-07f1-4a9e-9387-5a1ea5a95fab"
+      },
+      "labels": [
+        {
+          "position": 0.9,
+          "attrs": {
+            "rect": {
+              "fill": "transparent"
+            },
+            "text": {
+              "text": "*",
+              "font-family": "Arial",
+              "font-size": "12px",
+              "fill": "#cecece"
+            }
+          }
+        }
+      ],
+      "z": 94,
+      "attrs": {
+        ".marker-target": {
+          "d": "",
+          "fill": ""
+        },
+        ".marker-source": {
+          "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
+          "fill": "#cecece"
+        }
+      }
+    },
+    {
+      "type": "uml.Composition",
+      "relationFields": [
+        "supplier:target"
+      ],
+      "name": null,
+      "id": "e5557d33-7e93-4b3a-b5b9-33a5ce0e4ee8",
+      "runtimeClass": "cronos.widgets.joint.arrow.OneToMany",
+      "target": {
+        "id": "1a4bc72e-07f1-4a9e-9387-5a1ea5a95fab"
+      },
+      "source": {
+        "id": "43381ce8-ce3c-46e0-91c9-91f618079029"
+      },
+      "labels": [
+        {
+          "position": 0.9,
+          "attrs": {
+            "rect": {
+              "fill": "transparent"
+            },
+            "text": {
+              "text": "*",
+              "font-family": "Arial",
+              "font-size": "12px",
+              "fill": "#cecece"
+            }
+          }
+        }
+      ],
+      "z": 95,
+      "previous_source": {
+        "id": "43381ce8-ce3c-46e0-91c9-91f618079029"
+      },
+      "previous_target": {
+        "id": "1a4bc72e-07f1-4a9e-9387-5a1ea5a95fab"
+      },
+      "vertices": [
+        {
+          "x": 1889,
+          "y": 747
+        }
+      ],
+      "attrs": {
+        ".marker-target": {
+          "d": "",
+          "fill": ""
+        },
+        ".marker-source": {
+          "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
+          "fill": "#cecece"
+        },
+        "rect": {
+          "stroke": "yellow",
+          "stroke-width": 2
+        }
+      }
     }
   ],
   "selectedGroup": "48f4f413-bee8-4f1e-9839-41442c03aaf0",
@@ -7570,12 +7565,12 @@
       "name": "Product",
       "id": "7ea4a6b7-a1d4-4d34-b98c-50717a248fce",
       "cells": [
-        "732f25d9-10e2-48d5-8b66-de92b1060ba4",
         "07da68af-714e-448c-9a32-98dfe8174233",
         "cc3197d5-3309-402d-b150-244cb46a59a1",
         "d6b71259-5945-42f6-8f09-f44c81bb3745",
+        "717d6acd-c176-46ef-88a3-4518b81411f5",
         "a978677a-0aba-4266-9c93-a08de4a0ab77",
-        "717d6acd-c176-46ef-88a3-4518b81411f5"
+        "732f25d9-10e2-48d5-8b66-de92b1060ba4"
       ]
     },
     {
@@ -7593,22 +7588,21 @@
       "name": "Stock",
       "id": "869c76c2-9bfb-4157-863b-a6b6e7b02189",
       "cells": [
-        "e3d0015b-663a-45ed-9fff-2bc7d9e24b1d",
-        "98de70b6-0ccc-4dc6-a7b7-b68f3b842655",
-        "8c273182-fef3-459a-97b5-c910d37a0b42",
         "07da68af-714e-448c-9a32-98dfe8174233",
         "73fd1fa4-c98e-4703-8247-1e5eb4c2fba0",
-        "16e1fd7a-9377-4b77-bf1b-238e1ffd6064"
+        "16e1fd7a-9377-4b77-bf1b-238e1ffd6064",
+        "e3d0015b-663a-45ed-9fff-2bc7d9e24b1d",
+        "98de70b6-0ccc-4dc6-a7b7-b68f3b842655",
+        "8c273182-fef3-459a-97b5-c910d37a0b42"
       ]
     },
     {
       "name": "Client",
       "id": "b67601b1-2db1-42a1-ace3-792dbcfefb53",
       "cells": [
-        "28e8c357-7766-46fd-aa88-3ee9424aa043",
-        "56516354-0eb3-42fa-87a3-1df185dd307b",
-        "e925416d-5ac4-4ac7-aa7c-23521eb7a21c",
         "ab8386db-127b-42ce-93c6-cbafd0085c31",
+        "e925416d-5ac4-4ac7-aa7c-23521eb7a21c",
+        "56516354-0eb3-42fa-87a3-1df185dd307b",
         "143aa5c8-d789-4c13-80e8-88b99a1fd42f",
         "bda170b7-3956-4627-a55a-3ea5b5dd8988"
       ]
@@ -7618,9 +7612,9 @@
       "id": "e3e7c921-67ab-4979-b553-a13b274a6d1f",
       "cells": [
         "8007f961-6ebf-468f-9a0d-ef7bc1301e8a",
+        "dc3e13f1-5649-4a7f-b000-d5d56c5e1088",
         "43381ce8-ce3c-46e0-91c9-91f618079029",
         "9610a7f9-4936-4454-a80c-5831a722bf5a",
-        "dc3e13f1-5649-4a7f-b000-d5d56c5e1088",
         "a7c69581-2410-44d4-9b92-4d7cacde8ff8"
       ]
     },
@@ -7631,7 +7625,6 @@
         "d03fd0c5-a97d-41ad-821c-315b62e12b5c",
         "d2e50f97-0b9e-4037-94ba-af64568af247",
         "d49160ff-17ae-454a-8965-7b9f19ea786a",
-        "28e8c357-7766-46fd-aa88-3ee9424aa043",
         "8007f961-6ebf-468f-9a0d-ef7bc1301e8a",
         "37736f99-765d-48f8-91c7-b4d83b5e8752",
         "98de70b6-0ccc-4dc6-a7b7-b68f3b842655",
@@ -7641,7 +7634,7 @@
         "1df87f56-c5ba-47f5-8e68-82931f49b989",
         "43381ce8-ce3c-46e0-91c9-91f618079029",
         "56516354-0eb3-42fa-87a3-1df185dd307b",
-        "e1b434dc-c687-4a9e-83dc-f4297645029a",
+        "adc3d11b-3be2-4530-a93a-90e91ceb1a09",
         "9610a7f9-4936-4454-a80c-5831a722bf5a",
         "1a4bc72e-07f1-4a9e-9387-5a1ea5a95fab",
         "d6b71259-5945-42f6-8f09-f44c81bb3745",
@@ -7667,7 +7660,6 @@
       "id": "48f4f413-bee8-4f1e-9839-41442c03aaf0",
       "cells": [
         "d03fd0c5-a97d-41ad-821c-315b62e12b5c",
-        "28e8c357-7766-46fd-aa88-3ee9424aa043",
         "d49160ff-17ae-454a-8965-7b9f19ea786a",
         "8007f961-6ebf-468f-9a0d-ef7bc1301e8a",
         "d2e50f97-0b9e-4037-94ba-af64568af247",
@@ -7679,7 +7671,7 @@
         "1df87f56-c5ba-47f5-8e68-82931f49b989",
         "56516354-0eb3-42fa-87a3-1df185dd307b",
         "43381ce8-ce3c-46e0-91c9-91f618079029",
-        "e1b434dc-c687-4a9e-83dc-f4297645029a",
+        "adc3d11b-3be2-4530-a93a-90e91ceb1a09",
         "9610a7f9-4936-4454-a80c-5831a722bf5a",
         "1a4bc72e-07f1-4a9e-9387-5a1ea5a95fab",
         "e925416d-5ac4-4ac7-aa7c-23521eb7a21c",
